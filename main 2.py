@@ -1,0 +1,7 @@
+name = ("IvanBasmanov")
+print(name [0])
+print(name [-11])
+print(name [4:])
+print(name [::-1])
+print(name [0:11:2])
+print(name [0:11:2])
